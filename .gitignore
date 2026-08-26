@@ -39,10 +39,10 @@ key.properties
 
 # node.js
 #
-Work/SimpleAppLocker/node_modules/
-Work/SimpleAppLocker/npm-debug.log
-Work/SimpleAppLocker/yarn-error.log
-Work/SimpleAppLocker/package.json
+node_modules/
+npm-debug.log
+yarn-error.log
+package.json
 
 # fastlane
 #
